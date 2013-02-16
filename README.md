@@ -6,12 +6,14 @@ A TCP/UDP Server/Client platform in Java
 1. What are the files ?
 
 // Functional classes
+
 TCPServer.java: the class object of TCP server;
 UDPServer.java: the class object of UDP server;
 TCPClient.java: the class object of TCP client;
 UDPClient.java: the class object of UDP client.
 
 // GUI classes
+
 Server.java: the applet file of server, for both TCP and UDP;
 Client.java: the applet file of server, for both TCP and UDP.
 
